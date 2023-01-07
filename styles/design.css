@@ -128,7 +128,7 @@
 }
 /* contact styles */
 .contact {
-  background-image: url('/images/watch.png');
+  background-image: url('../images/watch.png');
   width: 60%;
   height: 30vh;
   color: white;
