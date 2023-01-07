@@ -170,7 +170,7 @@
 .left {
   width: 450px;
   height: 350px;
-  margin: 130px 0 0 0px;
+  margin: 130px 0 0 0;
 }
 .right {
   width: 350px;
@@ -194,3 +194,5 @@
   font-size: 2rem;
   font-weight: 600;
 }
+
+/* assignment styles ended here */
